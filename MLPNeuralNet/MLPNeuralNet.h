@@ -20,7 +20,6 @@
 //  **********************************************************************************
 
 #import <Accelerate/Accelerate.h>
-#import <Foundation/Foundation.h>
 
 // Type of output. The logistic activitation function is used for classification:
 // http://en.wikipedia.org/wiki/Logistic_function
